@@ -28,4 +28,4 @@ and
 ...
 ```
 
-![Done](docs/images/screenshot_install_done.png)
+![Done](docs/images/screenshot_integration_done.png)
